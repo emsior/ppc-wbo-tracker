@@ -252,13 +252,20 @@ def _render_areas(areas: list[dict[str, Any]]) -> str:
 
 def _render_realization(views: list[EditionView], realization: dict[int, dict[str, Any]]) -> str:
     rows = []
+    winners_total = 0
+    checked_dates: set[str] = set()
     for v in views:
         for r in v.rows:
             if not r["winner"]:
                 continue
+            winners_total += 1
             entry = realization.get(int(r["id"]))
+            if entry and entry.get("checked_on"):
+                checked_dates.add(str(entry["checked_on"]))
             status_key = (entry or {}).get("status", "brak_informacji")
             label = REALIZATION_LABELS.get(status_key, REALIZATION_LABELS["brak_informacji"])
+            if status_key == "brak_informacji" and entry and entry.get("checked_on"):
+                label += f" — sprawdzono {fmt_date(str(entry['checked_on']))}"
             evidence = (entry or {}).get("evidence", [])
             links = (
                 "; ".join(
@@ -277,7 +284,15 @@ def _render_realization(views: list[EditionView], realization: dict[int, dict[st
             )
     if not rows:
         return "<p>🚫 brak zwycięskich projektów w zbiorze.</p>"
-    return (
+    checked = sum(1 for v in views for r in v.rows if r["winner"] and int(r["id"]) in realization)
+    dates_text = ", ".join(fmt_date(d) for d in sorted(checked_dates)) or "🚫"
+    procedure = (
+        f'<p class="muted">Procedura: {checked} z {winners_total} zwycięzców sprawdzono tą samą '
+        f"ścieżką (oficjalna platforma + wyszukiwanie publikacji w sieci + ręczne otwarcie "
+        f"każdego źródła); daty sprawdzenia: {dates_text}. "
+        "Status „w trakcie” obejmuje także sam plan w budżecie miasta lub podpisaną umowę.</p>"
+    )
+    return procedure + (
         '<table><thead><tr><th scope="col">Edycja</th><th scope="col">Zwycięski projekt</th>'
         '<th scope="col">Koszt (plan)</th><th scope="col">Co wiadomo publicznie</th>'
         '<th scope="col">Dowód (data: źródło)</th></tr></thead>'

@@ -1,61 +1,445 @@
 {
-  "_about": "Ręcznie kuratorowane, publiczne i datowane informacje o losach zwycięskich projektów WBO po głosowaniu. Brak wpisu = brak informacji w tym zestawieniu (nie: niezrealizowany). Tytuł dowodu = nagłówek źródła. Zasady: CONTRIBUTING.md.",
+  "_about": "Jednolita procedura dla WSZYSTKICH zwycięzców: każdy projekt sprawdzony tą samą ścieżką (checked_how, checked_on). Tylko publiczne, datowane źródła; tytuł dowodu = nagłówek źródła. Status 'brak_informacji' = nie znaleziono publikacji, NIE 'niezrealizowany'. Zasady: CONTRIBUTING.md.",
   "entries": [
     {
-      "project_id": 5632,
-      "edition_year": 2020,
-      "status": "zrealizowany",
+      "project_id": 29443,
+      "edition_year": 2026,
+      "status": "w_trakcie",
       "evidence": [
-        {"date": "2022-04-01", "title": "Tężnia solankowa w Parku Sobieskim (30minut.pl: trwają prace budowlane, projekt WBO 2020)", "url": "https://www.30minut.pl/teznia-solankowa-w-parku-sobieskim/"},
-        {"date": "2022-07-13", "title": "Otwarcie tężni solankowej 23 lipca (walbrzych24.com)", "url": "https://walbrzych24.com/pl/780_rozrywka/37089_otwarcie-tezni-solankowej-23-lipca.html"}
+        {
+          "date": "2025-12-16",
+          "title": "Wałbrzych: tym razem 102 inwestycje w budżecie miasta na 2026 rok (LISTA) — projekt ujęty w budżecie miasta (walbrzych.dlawas.info)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/walbrzych-tym-razem-102-inwestycje-w-budzecie-miasta-na-2026-rok-lista/cid,43956,a"
+        },
+        {
+          "date": "2026-09-18",
+          "title": "Poniatów: to był pierwszy dzień zabawy przy Sosnowej. A co tam się teraz wydarzy? (walbrzych.dlawas.info, źródło: UM Wałbrzych)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/poniatow-to-byl-pierwszy-dzien-zabawy-przy-sosnowej-a-co-tam-sie-teraz-wydarzy-foto/cid,45480,a"
+        }
       ],
-      "note": ""
+      "note": "W budżecie miasta na 2026 r. i na liście „zaległych projektów przewidzianych do realizacji” (18.09.2026). Brak publicznego potwierdzenia zakończenia na 02.10.2026.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
     },
     {
-      "project_id": 11521,
-      "edition_year": 2022,
-      "status": "zrealizowany",
+      "project_id": 29485,
+      "edition_year": 2026,
+      "status": "w_trakcie",
       "evidence": [
-        {"date": "2025-03-21", "title": "Podzamcze: nowy skatepark i park – tak wyglądają, dziś brama się otworzy (walbrzych.dlawas.info)", "url": "https://walbrzych.dlawas.info/wiadomosci/podzamcze-nowy-skatepark-i-park-tak-wygladaja-dzis-brama-sie-otworzy-foto/cid,42338,a"}
+        {
+          "date": "2025-12-16",
+          "title": "Wałbrzych: tym razem 102 inwestycje w budżecie miasta na 2026 rok (LISTA) — projekt ujęty w budżecie miasta (walbrzych.dlawas.info)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/walbrzych-tym-razem-102-inwestycje-w-budzecie-miasta-na-2026-rok-lista/cid,43956,a"
+        },
+        {
+          "date": "2026-07-27",
+          "title": "„Biało-Niebieska Strefa Basketu” na Piaskowej Górze jeszcze w tym roku. Powstaną dwa boiska (dziennik.walbrzych.pl)",
+          "url": "https://dziennik.walbrzych.pl/bialo-niebieska-strefa-basketu-na-piaskowej-gorze-jeszcze-w-tym-roku-powstana-dwa-boiska/"
+        }
       ],
-      "note": "Artykuł opisuje wspólną realizację trzech projektów WBO 2022–2023 na Podzamczu (skatepark dla dzieci, park, skatepark dla młodzieży)."
+      "note": "27.07.2026: artykuł o podpisaniu umowy z wykonawcą, zapowiedź budowy w 2026 r.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
     },
     {
-      "project_id": 11532,
-      "edition_year": 2022,
-      "status": "zrealizowany",
+      "project_id": 29612,
+      "edition_year": 2026,
+      "status": "w_trakcie",
       "evidence": [
-        {"date": "2025-03-21", "title": "Podzamcze: nowy skatepark i park – tak wyglądają, dziś brama się otworzy (walbrzych.dlawas.info)", "url": "https://walbrzych.dlawas.info/wiadomosci/podzamcze-nowy-skatepark-i-park-tak-wygladaja-dzis-brama-sie-otworzy-foto/cid,42338,a"}
+        {
+          "date": "2025-12-16",
+          "title": "Wałbrzych: tym razem 102 inwestycje w budżecie miasta na 2026 rok (LISTA) — projekt ujęty w budżecie miasta (walbrzych.dlawas.info)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/walbrzych-tym-razem-102-inwestycje-w-budzecie-miasta-na-2026-rok-lista/cid,43956,a"
+        },
+        {
+          "date": "2026-09-18",
+          "title": "Poniatów: to był pierwszy dzień zabawy przy Sosnowej. A co tam się teraz wydarzy? (walbrzych.dlawas.info, źródło: UM Wałbrzych)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/poniatow-to-byl-pierwszy-dzien-zabawy-przy-sosnowej-a-co-tam-sie-teraz-wydarzy-foto/cid,45480,a"
+        }
       ],
-      "note": "Jak wyżej — wspólna realizacja trzech projektów WBO 2022–2023."
+      "note": "W budżecie miasta na 2026 r. i na liście „zaległych projektów przewidzianych do realizacji” (18.09.2026). Brak publicznego potwierdzenia zakończenia na 02.10.2026.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
     },
     {
-      "project_id": 15153,
-      "edition_year": 2023,
-      "status": "zrealizowany",
+      "project_id": 29667,
+      "edition_year": 2026,
+      "status": "w_trakcie",
       "evidence": [
-        {"date": "2025-03-21", "title": "Podzamcze: nowy skatepark i park – tak wyglądają, dziś brama się otworzy (walbrzych.dlawas.info)", "url": "https://walbrzych.dlawas.info/wiadomosci/podzamcze-nowy-skatepark-i-park-tak-wygladaja-dzis-brama-sie-otworzy-foto/cid,42338,a"}
+        {
+          "date": "2025-12-16",
+          "title": "Wałbrzych: tym razem 102 inwestycje w budżecie miasta na 2026 rok (LISTA) — projekt ujęty w budżecie miasta (walbrzych.dlawas.info)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/walbrzych-tym-razem-102-inwestycje-w-budzecie-miasta-na-2026-rok-lista/cid,43956,a"
+        },
+        {
+          "date": "2026-09-18",
+          "title": "Poniatów: to był pierwszy dzień zabawy przy Sosnowej. A co tam się teraz wydarzy? (walbrzych.dlawas.info, źródło: UM Wałbrzych)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/poniatow-to-byl-pierwszy-dzien-zabawy-przy-sosnowej-a-co-tam-sie-teraz-wydarzy-foto/cid,45480,a"
+        }
       ],
-      "note": "Jak wyżej — wspólna realizacja trzech projektów WBO 2022–2023."
+      "note": "W budżecie miasta na 2026 r. i na liście „zaległych projektów przewidzianych do realizacji” (18.09.2026). Brak publicznego potwierdzenia zakończenia na 02.10.2026.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
+    },
+    {
+      "project_id": 29738,
+      "edition_year": 2026,
+      "status": "w_trakcie",
+      "evidence": [
+        {
+          "date": "2025-12-16",
+          "title": "Wałbrzych: tym razem 102 inwestycje w budżecie miasta na 2026 rok (LISTA) — projekt ujęty w budżecie miasta (walbrzych.dlawas.info)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/walbrzych-tym-razem-102-inwestycje-w-budzecie-miasta-na-2026-rok-lista/cid,43956,a"
+        },
+        {
+          "date": "2026-09-18",
+          "title": "Poniatów: to był pierwszy dzień zabawy przy Sosnowej. A co tam się teraz wydarzy? (walbrzych.dlawas.info, źródło: UM Wałbrzych)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/poniatow-to-byl-pierwszy-dzien-zabawy-przy-sosnowej-a-co-tam-sie-teraz-wydarzy-foto/cid,45480,a"
+        }
+      ],
+      "note": "W budżecie miasta na 2026 r. i na liście „zaległych projektów przewidzianych do realizacji” (18.09.2026). Brak publicznego potwierdzenia zakończenia na 02.10.2026.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
+    },
+    {
+      "project_id": 20506,
+      "edition_year": 2025,
+      "status": "w_trakcie",
+      "evidence": [
+        {
+          "date": "2025-12-16",
+          "title": "Wałbrzych: tym razem 102 inwestycje w budżecie miasta na 2026 rok (LISTA) — projekt ujęty w budżecie miasta (walbrzych.dlawas.info)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/walbrzych-tym-razem-102-inwestycje-w-budzecie-miasta-na-2026-rok-lista/cid,43956,a"
+        },
+        {
+          "date": "2026-09-18",
+          "title": "Poniatów: to był pierwszy dzień zabawy przy Sosnowej. A co tam się teraz wydarzy? (walbrzych.dlawas.info, źródło: UM Wałbrzych)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/poniatow-to-byl-pierwszy-dzien-zabawy-przy-sosnowej-a-co-tam-sie-teraz-wydarzy-foto/cid,45480,a"
+        }
+      ],
+      "note": "W budżecie miasta na 2026 r. i na liście „zaległych projektów przewidzianych do realizacji” (18.09.2026). Brak publicznego potwierdzenia zakończenia na 02.10.2026.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
+    },
+    {
+      "project_id": 20648,
+      "edition_year": 2025,
+      "status": "w_trakcie",
+      "evidence": [
+        {
+          "date": "2025-12-16",
+          "title": "Wałbrzych: tym razem 102 inwestycje w budżecie miasta na 2026 rok (LISTA) — projekt ujęty w budżecie miasta (walbrzych.dlawas.info)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/walbrzych-tym-razem-102-inwestycje-w-budzecie-miasta-na-2026-rok-lista/cid,43956,a"
+        }
+      ],
+      "note": "W budżecie miasta na 2026 r. (lista inwestycji). Brak publicznego potwierdzenia zakończenia na 02.10.2026.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
+    },
+    {
+      "project_id": 21525,
+      "edition_year": 2025,
+      "status": "w_trakcie",
+      "evidence": [
+        {
+          "date": "2025-12-16",
+          "title": "Wałbrzych: tym razem 102 inwestycje w budżecie miasta na 2026 rok (LISTA) — projekt ujęty w budżecie miasta (walbrzych.dlawas.info)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/walbrzych-tym-razem-102-inwestycje-w-budzecie-miasta-na-2026-rok-lista/cid,43956,a"
+        },
+        {
+          "date": "2026-09-18",
+          "title": "Poniatów: to był pierwszy dzień zabawy przy Sosnowej. A co tam się teraz wydarzy? (walbrzych.dlawas.info, źródło: UM Wałbrzych)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/poniatow-to-byl-pierwszy-dzien-zabawy-przy-sosnowej-a-co-tam-sie-teraz-wydarzy-foto/cid,45480,a"
+        }
+      ],
+      "note": "W budżecie miasta na 2026 r. i na liście „zaległych projektów przewidzianych do realizacji” (18.09.2026). Brak publicznego potwierdzenia zakończenia na 02.10.2026.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
+    },
+    {
+      "project_id": 21588,
+      "edition_year": 2025,
+      "status": "w_trakcie",
+      "evidence": [
+        {
+          "date": "2025-12-16",
+          "title": "Wałbrzych: tym razem 102 inwestycje w budżecie miasta na 2026 rok (LISTA) — projekt ujęty w budżecie miasta (walbrzych.dlawas.info)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/walbrzych-tym-razem-102-inwestycje-w-budzecie-miasta-na-2026-rok-lista/cid,43956,a"
+        },
+        {
+          "date": "2026-09-18",
+          "title": "Poniatów: to był pierwszy dzień zabawy przy Sosnowej. A co tam się teraz wydarzy? (walbrzych.dlawas.info, źródło: UM Wałbrzych)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/poniatow-to-byl-pierwszy-dzien-zabawy-przy-sosnowej-a-co-tam-sie-teraz-wydarzy-foto/cid,45480,a"
+        }
+      ],
+      "note": "W budżecie miasta na 2026 r. i na liście „zaległych projektów przewidzianych do realizacji” (18.09.2026). Brak publicznego potwierdzenia zakończenia na 02.10.2026.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
     },
     {
       "project_id": 14941,
       "edition_year": 2023,
       "status": "w_trakcie",
       "evidence": [
-        {"date": "2026-03-14", "title": "Podzamcze: zaczynają się przygotowania pod budowę toru pumptrack (walbrzych.dlawas.info)", "url": "https://walbrzych.dlawas.info/wiadomosci/podzamcze-zaczynaja-sie-przygotowania-pod-budowe-toru-pumptrack-foto/cid,44441,a"}
+        {
+          "date": "2025-12-16",
+          "title": "Wałbrzych: tym razem 102 inwestycje w budżecie miasta na 2026 rok (LISTA) — projekt ujęty w budżecie miasta (walbrzych.dlawas.info)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/walbrzych-tym-razem-102-inwestycje-w-budzecie-miasta-na-2026-rok-lista/cid,43956,a"
+        },
+        {
+          "date": "2026-03-14",
+          "title": "Podzamcze: zaczynają się przygotowania pod budowę toru pumptrack (walbrzych.dlawas.info)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/podzamcze-zaczynaja-sie-przygotowania-pod-budowe-toru-pumptrack-foto/cid,44441,a"
+        }
       ],
-      "note": "Stan na 02.10.2026: brak publicznego potwierdzenia zakończenia."
+      "note": "Stan na 02.10.2026: przygotowania terenu (03.2026); brak publicznego potwierdzenia zakończenia.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
     },
     {
       "project_id": 14977,
       "edition_year": 2023,
       "status": "zrealizowany",
       "evidence": [
-        {"date": "2026-06-25", "title": "Otwieramy Muzyczny Skwer im. Józefa Wiłkomirskiego (um.walbrzych.pl; data = dzień otwarcia)", "url": "https://um.walbrzych.pl/pl/news/otwieramy-muzyczny-skwer-im-jozefa-wilkomirskiego"},
-        {"date": "2026-06-26", "title": "Muzyczny Skwer na Piaskowej Górze gotowy. Ostateczny koszt ponad dwukrotnie większy (dziennik.walbrzych.pl)", "url": "https://dziennik.walbrzych.pl/muzyczny-skwer-na-piaskowej-gorze-gotowy-ostateczny-koszt-ponad-dwukrotnie-wiekszy/"}
+        {
+          "date": "2026-06-25",
+          "title": "Otwieramy Muzyczny Skwer im. Józefa Wiłkomirskiego (um.walbrzych.pl; data = dzień otwarcia)",
+          "url": "https://um.walbrzych.pl/pl/news/otwieramy-muzyczny-skwer-im-jozefa-wilkomirskiego"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Muzyczny Skwer na Piaskowej Górze gotowy. Ostateczny koszt ponad dwukrotnie większy (dziennik.walbrzych.pl)",
+          "url": "https://dziennik.walbrzych.pl/muzyczny-skwer-na-piaskowej-gorze-gotowy-ostateczny-koszt-ponad-dwukrotnie-wiekszy/"
+        }
       ],
-      "note": ""
+      "note": "Tytuł drugiego źródła cytowany dosłownie; zakres kwoty końcowej z artykułu może nie być porównywalny z planowanym kosztem WBO (wg artykułu brakujące środki dołożyła Rada Miejska).",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
+    },
+    {
+      "project_id": 15127,
+      "edition_year": 2023,
+      "status": "w_trakcie",
+      "evidence": [
+        {
+          "date": "2025-12-16",
+          "title": "Wałbrzych: tym razem 102 inwestycje w budżecie miasta na 2026 rok (LISTA) — projekt ujęty w budżecie miasta (walbrzych.dlawas.info)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/walbrzych-tym-razem-102-inwestycje-w-budzecie-miasta-na-2026-rok-lista/cid,43956,a"
+        },
+        {
+          "date": "2026-09-18",
+          "title": "Poniatów: to był pierwszy dzień zabawy przy Sosnowej. A co tam się teraz wydarzy? (walbrzych.dlawas.info, źródło: UM Wałbrzych)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/poniatow-to-byl-pierwszy-dzien-zabawy-przy-sosnowej-a-co-tam-sie-teraz-wydarzy-foto/cid,45480,a"
+        }
+      ],
+      "note": "W budżecie miasta na 2026 r. i na liście „zaległych projektów przewidzianych do realizacji” (18.09.2026). Brak publicznego potwierdzenia zakończenia na 02.10.2026.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
+    },
+    {
+      "project_id": 15153,
+      "edition_year": 2023,
+      "status": "zrealizowany",
+      "evidence": [
+        {
+          "date": "2025-03-21",
+          "title": "Podzamcze: nowy skatepark i park – tak wyglądają, dziś brama się otworzy (walbrzych.dlawas.info)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/podzamcze-nowy-skatepark-i-park-tak-wygladaja-dzis-brama-sie-otworzy-foto/cid,42338,a"
+        }
+      ],
+      "note": "Artykuł opisuje wspólną realizację trzech projektów WBO 2022–2023 na Podzamczu (skatepark dla dzieci, park, skatepark dla młodzieży).",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
+    },
+    {
+      "project_id": 11223,
+      "edition_year": 2022,
+      "status": "w_trakcie",
+      "evidence": [
+        {
+          "date": "2024-02-07",
+          "title": "Modernizacja i rozbudowa obiektów rekreacyjnych Publicznej Szkoły Podstawowej nr 6 na ulicy Andersa 50 — umowa z wykonawcą (dolnoslaska.pl)",
+          "url": "https://dolnoslaska.pl/modernizacja-i-rozbudowa-obiektow-rekreacyjnych-publicznej-szkoly-podstawowej-nr-6-na-ulicy-andersa-50/"
+        }
+      ],
+      "note": "07.02.2024: umowa z wykonawcą (1,4 mln zł wg źródła). Brak publicznego potwierdzenia odbioru w tym zestawieniu.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
+    },
+    {
+      "project_id": 11521,
+      "edition_year": 2022,
+      "status": "zrealizowany",
+      "evidence": [
+        {
+          "date": "2025-03-21",
+          "title": "Podzamcze: nowy skatepark i park – tak wyglądają, dziś brama się otworzy (walbrzych.dlawas.info)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/podzamcze-nowy-skatepark-i-park-tak-wygladaja-dzis-brama-sie-otworzy-foto/cid,42338,a"
+        }
+      ],
+      "note": "Jak wyżej — wspólna realizacja trzech projektów WBO 2022–2023.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
+    },
+    {
+      "project_id": 11532,
+      "edition_year": 2022,
+      "status": "zrealizowany",
+      "evidence": [
+        {
+          "date": "2025-03-21",
+          "title": "Podzamcze: nowy skatepark i park – tak wyglądają, dziś brama się otworzy (walbrzych.dlawas.info)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/podzamcze-nowy-skatepark-i-park-tak-wygladaja-dzis-brama-sie-otworzy-foto/cid,42338,a"
+        }
+      ],
+      "note": "Jak wyżej — wspólna realizacja trzech projektów WBO 2022–2023.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
+    },
+    {
+      "project_id": 11616,
+      "edition_year": 2022,
+      "status": "brak_informacji",
+      "evidence": [],
+      "note": "Sprawdzono 02.10.2026 — nie znaleziono datowanej, publicznej publikacji jednoznacznie o tym projekcie. To nie znaczy, że nie został zrealizowany.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
+    },
+    {
+      "project_id": 11750,
+      "edition_year": 2022,
+      "status": "brak_informacji",
+      "evidence": [],
+      "note": "Sprawdzono 02.10.2026 — nie znaleziono datowanej, publicznej publikacji jednoznacznie o tym projekcie. To nie znaczy, że nie został zrealizowany.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
+    },
+    {
+      "project_id": 8383,
+      "edition_year": 2021,
+      "status": "zrealizowany",
+      "evidence": [
+        {
+          "date": "2021-12-22",
+          "title": "Wałbrzych: Straż pożarna dostała od miasta cztery samochody! (walbrzych.naszemiasto.pl)",
+          "url": "https://walbrzych.naszemiasto.pl/walbrzych-straz-pozarna-dostala-od-miasta-cztery-samochody/ar/c1-8604501"
+        }
+      ],
+      "note": "22.12.2021: przekazanie czterech samochodów kupionych w ramach WBO (wg źródła).",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
+    },
+    {
+      "project_id": 8442,
+      "edition_year": 2021,
+      "status": "w_trakcie",
+      "evidence": [
+        {
+          "date": "2025-12-16",
+          "title": "Wałbrzych: tym razem 102 inwestycje w budżecie miasta na 2026 rok (LISTA) — projekt ujęty w budżecie miasta (walbrzych.dlawas.info)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/walbrzych-tym-razem-102-inwestycje-w-budzecie-miasta-na-2026-rok-lista/cid,43956,a"
+        },
+        {
+          "date": "2026-09-18",
+          "title": "Poniatów: to był pierwszy dzień zabawy przy Sosnowej. A co tam się teraz wydarzy? (walbrzych.dlawas.info, źródło: UM Wałbrzych)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/poniatow-to-byl-pierwszy-dzien-zabawy-przy-sosnowej-a-co-tam-sie-teraz-wydarzy-foto/cid,45480,a"
+        }
+      ],
+      "note": "W budżecie miasta na 2026 r. i na liście „zaległych projektów przewidzianych do realizacji” (18.09.2026). Brak publicznego potwierdzenia zakończenia na 02.10.2026.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
+    },
+    {
+      "project_id": 8451,
+      "edition_year": 2021,
+      "status": "zrealizowany",
+      "evidence": [
+        {
+          "date": "2026-09-18",
+          "title": "Poniatów: to był pierwszy dzień zabawy przy Sosnowej. A co tam się teraz wydarzy? (walbrzych.dlawas.info, źródło: UM Wałbrzych)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/poniatow-to-byl-pierwszy-dzien-zabawy-przy-sosnowej-a-co-tam-sie-teraz-wydarzy-foto/cid,45480,a"
+        }
+      ],
+      "note": "Artykuł z 18.09.2026 odsyła do relacji z otwarcia boiska do siatkówki plażowej na Podzamczu (lato 2026). Projekt o tym samym tytule startował też w edycji 2020.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
+    },
+    {
+      "project_id": 8453,
+      "edition_year": 2021,
+      "status": "brak_informacji",
+      "evidence": [],
+      "note": "Sprawdzono 02.10.2026 — nie znaleziono datowanej, publicznej publikacji jednoznacznie o tym projekcie. To nie znaczy, że nie został zrealizowany.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
+    },
+    {
+      "project_id": 5632,
+      "edition_year": 2020,
+      "status": "zrealizowany",
+      "evidence": [
+        {
+          "date": "2022-04-01",
+          "title": "Tężnia solankowa w Parku Sobieskim (30minut.pl: trwają prace budowlane, projekt WBO 2020)",
+          "url": "https://www.30minut.pl/teznia-solankowa-w-parku-sobieskim/"
+        },
+        {
+          "date": "2022-07-13",
+          "title": "Otwarcie tężni solankowej 23 lipca (walbrzych24.com)",
+          "url": "https://walbrzych24.com/pl/780_rozrywka/37089_otwarcie-tezni-solankowej-23-lipca.html"
+        }
+      ],
+      "note": "",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
+    },
+    {
+      "project_id": 5634,
+      "edition_year": 2020,
+      "status": "zrealizowany",
+      "evidence": [
+        {
+          "date": "2022-12-24",
+          "title": "Nowy samochód dla wałbrzyskich ratowników. Jeden z najnowocześniejszych na Dolnym Śląsku (dziennik.walbrzych.pl)",
+          "url": "https://dziennik.walbrzych.pl/nowy-samochod-dla-walbrzyskich-ratownikow-jeden-z-najnowoczesniejszych-na-dolnym-slasku/"
+        }
+      ],
+      "note": "24.12.2022: przekazanie samochodu; źródło wskazuje projekt WBO z 2020 r.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
+    },
+    {
+      "project_id": 5657,
+      "edition_year": 2020,
+      "status": "zrealizowany",
+      "evidence": [
+        {
+          "date": "2026-09-18",
+          "title": "Poniatów: to był pierwszy dzień zabawy przy Sosnowej. A co tam się teraz wydarzy? (walbrzych.dlawas.info, źródło: UM Wałbrzych)",
+          "url": "https://walbrzych.dlawas.info/wiadomosci/poniatow-to-byl-pierwszy-dzien-zabawy-przy-sosnowej-a-co-tam-sie-teraz-wydarzy-foto/cid,45480,a"
+        }
+      ],
+      "note": "18.09.2026: kompleks przy ul. Sosnowej (Poniatów) otwarty; wg źródła projekt WBO 2020 po zmianie lokalizacji i rozszerzeniu zakresu.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
+    },
+    {
+      "project_id": 5671,
+      "edition_year": 2020,
+      "status": "brak_informacji",
+      "evidence": [],
+      "note": "Sprawdzono 02.10.2026 — nie znaleziono datowanej, publicznej publikacji jednoznacznie o tym projekcie. To nie znaczy, że nie został zrealizowany.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
+    },
+    {
+      "project_id": 5716,
+      "edition_year": 2020,
+      "status": "brak_informacji",
+      "evidence": [],
+      "note": "Sprawdzono 02.10.2026 — nie znaleziono datowanej, publicznej publikacji jednoznacznie o tym projekcie. To nie znaczy, że nie został zrealizowany.",
+      "checked_on": "2026-10-02",
+      "checked_how": "platforma WBO + wyszukiwanie w sieci (Perplexity, GPT-6.1 Sol, 02.10.2026) + reczne otwarcie kazdego zrodla"
     }
   ]
 }

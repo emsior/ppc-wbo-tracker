@@ -133,6 +133,7 @@ def test_render_site_escapes_and_contains_sections() -> None:
                     }
                 ],
                 "note": "wspólna realizacja <dwóch> projektów",
+                "checked_on": "2026-10-02",
             }
         },
     )
@@ -142,6 +143,7 @@ def test_render_site_escapes_and_contains_sections() -> None:
     assert "Oficjalne ogłoszenie wyników: do 15.10.2026" in html
     assert "✅ zrealizowany (wg źródła)" in html and "https://example.test/news/1" in html
     assert "(wspólna realizacja &lt;dwóch&gt; projektów)" in html
+    assert "Procedura: 1 z 1 zwycięzców sprawdzono" in html and "02.10.2026" in html
     assert 'lang="pl"' in html
 
 
