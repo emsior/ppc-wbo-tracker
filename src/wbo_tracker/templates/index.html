@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WBO Tracker — Wałbrzyski Budżet Obywatelski w liczbach</title>
+<meta name="description" content="Niezależne, neutralne zestawienie faktów o Wałbrzyskim Budżecie Obywatelskim: projekty, koszty, głosy, frekwencja i historia edycji — każda liczba z linkiem do oficjalnego źródła.">
+<style>${css}</style>
+</head>
+<body>
+<main>
+<header>
+<h1>WBO Tracker — Wałbrzyski Budżet Obywatelski w liczbach</h1>
+<p class="lead">Niezależne zestawienie <strong>faktów</strong> z oficjalnej platformy <a href="${source_url}" rel="noopener">wbo.walbrzych.eu</a>: projekty na listach, koszty, wyniki głosowań, frekwencja i historia edycji. Bez opisów projektów, bez zdjęć, bez ocen — każda liczba prowadzi do źródła.</p>
+<p class="muted">Stan danych: <time datetime="${generated_at}">${generated_at_pl}</time> · Zestawienie prywatne (PPC), niepowiązane z Urzędem Miejskim w Wałbrzychu · Błąd w danych? <a href="https://github.com/emsior/ppc-wbo-tracker/issues">zgłoś</a>.</p>
+</header>
+
+${current_notice}
+
+<h2 id="podsumowanie">Podsumowanie edycji</h2>
+<div class="table-wrap">${summary}</div>
+
+<h2 id="edycje">Edycje</h2>
+${editions}
+
+<h2 id="obszary">Obszary miasta (edycje z podziałem na obszary)</h2>
+<div class="table-wrap">${areas}</div>
+
+<h2 id="realizacja">Co wiadomo o realizacji zwycięskich projektów</h2>
+<p>Oficjalna platforma pokazuje dla zwycięzców z każdej edycji ten sam status „Wybrany do realizacji” — także dla projektów sprzed kilku lat. Ta tabela zbiera wyłącznie <strong>publiczne, datowane</strong> informacje o tym, co stało się z projektami po głosowaniu. Brak wpisu oznacza „brak informacji w tym zestawieniu”, a nie „niezrealizowany”. Dowody można dodać przez <a href="https://github.com/emsior/ppc-wbo-tracker/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a>.</p>
+<div class="table-wrap">${realization}</div>
+
+<h2 id="zrodla">Źródła i zasady</h2>
+<ul>
+<li>Dane pochodzą wyłącznie z oficjalnej platformy <a href="${source_url}" rel="noopener">${source_name}</a> (oprogramowanie: ${platform}). Zestawienie zawiera tylko fakty: numer, tytuł jako identyfikator, obszar, planowany koszt, status, miejsce, liczbę głosów oraz statystyki głosowania. Nie kopiujemy opisów projektów, załączników ani zdjęć — należą do ich autorów.</li>
+<li>Każdy wiersz prowadzi do strony projektu na platformie. W razie rozbieżności źródłem prawdy jest platforma Urzędu Miejskiego.</li>
+<li>Nie publikujemy danych osobowych wnioskodawców. Nie oceniamy projektów ani decyzji — zestawienie jest neutralne.</li>
+<li>Strony pobrano: ${sources_list}</li>
+<li>Kod i dane: <a href="https://github.com/emsior/ppc-wbo-tracker">github.com/emsior/ppc-wbo-tracker</a> (MIT). Dane w formacie JSON i CSV są w katalogu <code>data/</code>.</li>
+</ul>
+
+<footer>Proch PC (PPC) · Wałbrzych · prochpc@gmail.com · wygenerowano ${generated_at_pl}</footer>
+</main>
+</body>
+</html>

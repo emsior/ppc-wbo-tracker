@@ -1,0 +1,69 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ppc-wbo-tracker"
+version = "0.1.0"
+description = "Neutral, static tracker of the Wałbrzych participatory budget (WBO): projects, votes, turnout and history — facts only, every number linked to its public source."
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+authors = [{ name = "Proch PC (PPC)", email = "prochpc@gmail.com" }]
+keywords = ["participatory-budget", "budzet-obywatelski", "walbrzych", "open-data", "civic-tech"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.12",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Topic :: Sociology",
+]
+dependencies = [
+  "requests>=2.32",
+  "beautifulsoup4>=4.13",
+  "truststore>=0.9",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8",
+  "ruff>=0.6",
+  "mypy>=1.11",
+  "types-requests",
+]
+
+[project.scripts]
+wbo-tracker = "wbo_tracker.__main__:main"
+
+[project.urls]
+Source = "https://github.com/emsior/ppc-wbo-tracker"
+"Data source (official)" = "https://wbo.walbrzych.eu/"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+wbo_tracker = ["templates/*.html"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "N", "W"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/fixtures.py" = ["E501"]
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+files = ["src", "tests"]
+
+[[tool.mypy.overrides]]
+module = ["truststore"]
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
