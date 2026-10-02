@@ -1,0 +1,61 @@
+{
+  "_about": "Ręcznie kuratorowane, publiczne i datowane informacje o losach zwycięskich projektów WBO po głosowaniu. Brak wpisu = brak informacji w tym zestawieniu (nie: niezrealizowany). Tytuł dowodu = nagłówek źródła. Zasady: CONTRIBUTING.md.",
+  "entries": [
+    {
+      "project_id": 5632,
+      "edition_year": 2020,
+      "status": "zrealizowany",
+      "evidence": [
+        {"date": "2022-04-01", "title": "Tężnia solankowa w Parku Sobieskim (30minut.pl: trwają prace budowlane, projekt WBO 2020)", "url": "https://www.30minut.pl/teznia-solankowa-w-parku-sobieskim/"},
+        {"date": "2022-07-13", "title": "Otwarcie tężni solankowej 23 lipca (walbrzych24.com)", "url": "https://walbrzych24.com/pl/780_rozrywka/37089_otwarcie-tezni-solankowej-23-lipca.html"}
+      ],
+      "note": ""
+    },
+    {
+      "project_id": 11521,
+      "edition_year": 2022,
+      "status": "zrealizowany",
+      "evidence": [
+        {"date": "2025-03-21", "title": "Podzamcze: nowy skatepark i park – tak wyglądają, dziś brama się otworzy (walbrzych.dlawas.info)", "url": "https://walbrzych.dlawas.info/wiadomosci/podzamcze-nowy-skatepark-i-park-tak-wygladaja-dzis-brama-sie-otworzy-foto/cid,42338,a"}
+      ],
+      "note": "Artykuł opisuje wspólną realizację trzech projektów WBO 2022–2023 na Podzamczu (skatepark dla dzieci, park, skatepark dla młodzieży)."
+    },
+    {
+      "project_id": 11532,
+      "edition_year": 2022,
+      "status": "zrealizowany",
+      "evidence": [
+        {"date": "2025-03-21", "title": "Podzamcze: nowy skatepark i park – tak wyglądają, dziś brama się otworzy (walbrzych.dlawas.info)", "url": "https://walbrzych.dlawas.info/wiadomosci/podzamcze-nowy-skatepark-i-park-tak-wygladaja-dzis-brama-sie-otworzy-foto/cid,42338,a"}
+      ],
+      "note": "Jak wyżej — wspólna realizacja trzech projektów WBO 2022–2023."
+    },
+    {
+      "project_id": 15153,
+      "edition_year": 2023,
+      "status": "zrealizowany",
+      "evidence": [
+        {"date": "2025-03-21", "title": "Podzamcze: nowy skatepark i park – tak wyglądają, dziś brama się otworzy (walbrzych.dlawas.info)", "url": "https://walbrzych.dlawas.info/wiadomosci/podzamcze-nowy-skatepark-i-park-tak-wygladaja-dzis-brama-sie-otworzy-foto/cid,42338,a"}
+      ],
+      "note": "Jak wyżej — wspólna realizacja trzech projektów WBO 2022–2023."
+    },
+    {
+      "project_id": 14941,
+      "edition_year": 2023,
+      "status": "w_trakcie",
+      "evidence": [
+        {"date": "2026-03-14", "title": "Podzamcze: zaczynają się przygotowania pod budowę toru pumptrack (walbrzych.dlawas.info)", "url": "https://walbrzych.dlawas.info/wiadomosci/podzamcze-zaczynaja-sie-przygotowania-pod-budowe-toru-pumptrack-foto/cid,44441,a"}
+      ],
+      "note": "Stan na 02.10.2026: brak publicznego potwierdzenia zakończenia."
+    },
+    {
+      "project_id": 14977,
+      "edition_year": 2023,
+      "status": "zrealizowany",
+      "evidence": [
+        {"date": "2026-06-25", "title": "Otwieramy Muzyczny Skwer im. Józefa Wiłkomirskiego (um.walbrzych.pl; data = dzień otwarcia)", "url": "https://um.walbrzych.pl/pl/news/otwieramy-muzyczny-skwer-im-jozefa-wilkomirskiego"},
+        {"date": "2026-06-26", "title": "Muzyczny Skwer na Piaskowej Górze gotowy. Ostateczny koszt ponad dwukrotnie większy (dziennik.walbrzych.pl)", "url": "https://dziennik.walbrzych.pl/muzyczny-skwer-na-piaskowej-gorze-gotowy-ostateczny-koszt-ponad-dwukrotnie-wiekszy/"}
+      ],
+      "note": ""
+    }
+  ]
+}
