@@ -1,0 +1,18 @@
+# raw HTML snapshots of the platform (reproducibility only, never committed)
+data/raw/
+
+# python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# secrets / local
+.env
+.secrets/
+*.log
