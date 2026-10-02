@@ -1,0 +1,1971 @@
+{
+  "generated_at": "2026-10-02T07:43:18+00:00",
+  "source_name": "Wałbrzyski Budżet Obywatelski — oficjalna platforma Urzędu Miejskiego w Wałbrzychu",
+  "source_url": "https://wbo.walbrzych.eu",
+  "platform": "PORTO ALEGRE (MediaPark)",
+  "editions": [
+    {
+      "year": 2027,
+      "site_id": null,
+      "current": true,
+      "projects": [
+        {
+          "id": 34572,
+          "number": 1,
+          "title": "ZSP4 - Rowerem po wiedzę, skokiem po frajdę!",
+          "area": "Nowe Miasto, Stary Zdrój",
+          "cost_pln": 1009000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/34572"
+        },
+        {
+          "id": 34621,
+          "number": 2,
+          "title": "Ul. Wilcza modernizacja",
+          "area": "Szczawienko, Książ, Lubiechów, Poniatów",
+          "cost_pln": 774500.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/34621"
+        },
+        {
+          "id": 34629,
+          "number": 3,
+          "title": "Blisko lasu, blisko ludzi.",
+          "area": "Nowe Miasto, Stary Zdrój",
+          "cost_pln": 953440.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/34629"
+        },
+        {
+          "id": 34641,
+          "number": 4,
+          "title": "Samochód elektryczny dla Schroniska dla Zwierząt.",
+          "area": "Śródmieście, Gaj",
+          "cost_pln": 230000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/34641"
+        },
+        {
+          "id": 34686,
+          "number": 5,
+          "title": "Klatka do treningów Ninja i OCR (biegi przeszkodowe)",
+          "area": "Podzamcze, Piaskowa Góra",
+          "cost_pln": 207800.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/34686"
+        },
+        {
+          "id": 34735,
+          "number": 6,
+          "title": "Remont nawierzchni ulicy B. Krzywoustego poprzez frezowanie istniejacej nawierzchni asfaltowej oraz wykonanie nowej warstwy ścieralnej.",
+          "area": "Śródmieście, Gaj",
+          "cost_pln": 816000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/34735"
+        },
+        {
+          "id": 34767,
+          "number": 7,
+          "title": "Parking na nieużytkach przy placu Gedymina",
+          "area": "Nowe Miasto, Stary Zdrój",
+          "cost_pln": 961000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/34767"
+        },
+        {
+          "id": 34771,
+          "number": 8,
+          "title": "Remont drogi od Moniuszki 68E do cmentarza",
+          "area": "Śródmieście, Gaj",
+          "cost_pln": 305650.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/34771"
+        },
+        {
+          "id": 34774,
+          "number": 9,
+          "title": "\"Remont drogi od Słowicza 13 do Okrzei 1\"",
+          "area": "Śródmieście, Gaj",
+          "cost_pln": 950400.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/34774"
+        },
+        {
+          "id": 34838,
+          "number": 10,
+          "title": "Kraina Zabawy na Sobięcinie",
+          "area": "Biały Kamień, Konradów, Sobięcin",
+          "cost_pln": 451700.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/34838"
+        },
+        {
+          "id": 34846,
+          "number": 11,
+          "title": "przebudowa ul. Grodzkiej wraz z parkingiem",
+          "area": "Podzamcze, Piaskowa Góra",
+          "cost_pln": 952030.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/34846"
+        },
+        {
+          "id": 34875,
+          "number": 12,
+          "title": "Miejsca Postojowe",
+          "area": "Podzamcze, Piaskowa Góra",
+          "cost_pln": 990000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/34875"
+        },
+        {
+          "id": 34880,
+          "number": 13,
+          "title": "Bezpieczna droga do domu i szkoły - kompleksowa odnowa ulicy Piotra Bardowskiego",
+          "area": "Nowe Miasto, Stary Zdrój",
+          "cost_pln": 991605.44,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/34880"
+        },
+        {
+          "id": 34895,
+          "number": 14,
+          "title": "Osiem marzeń- kolorowy plac zabaw",
+          "area": "Podgórze, Nowy i Stary Glinik, Rusinowa, Kozice",
+          "cost_pln": 477110.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/34895"
+        },
+        {
+          "id": 34911,
+          "number": 15,
+          "title": "Widoczni po zmroku - Bezpieczne przejście przez pasy - Budowa doświetlaczy przejść dla pieszych, zwiększająca bezpieczeństwo mieszkańców Wałbrzycha",
+          "area": "Podzamcze, Piaskowa Góra",
+          "cost_pln": 558400.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/34911"
+        },
+        {
+          "id": 34942,
+          "number": 16,
+          "title": "Zagospodarowanie terenu rekreacyjnie w parku Sudety",
+          "area": "Nowe Miasto, Stary Zdrój",
+          "cost_pln": 1009000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/34942"
+        },
+        {
+          "id": 34962,
+          "number": 17,
+          "title": "Bezpieczna Kaszubska – przebudowa drogi i likwidacja barier w dzielnicy Podgórze",
+          "area": "Podgórze, Nowy i Stary Glinik, Rusinowa, Kozice",
+          "cost_pln": 992255.26,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/34962"
+        },
+        {
+          "id": 34971,
+          "number": 18,
+          "title": "Koniec z \"dziurą na dziurze\"! Nowa nawierzchnia i chodniki na ulicy Duboisa.",
+          "area": "Biały Kamień, Konradów, Sobięcin",
+          "cost_pln": 992255.26,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/34971"
+        },
+        {
+          "id": 35007,
+          "number": 19,
+          "title": "Bezpieczna droga do domu,na wycieczkę,do Kościoła(odnowa ul. Wieniawskiego od ul. DeGaulle'a do mostu na Pełcznicy,miejsca parkingowe,boksy na odpady)",
+          "area": "Szczawienko, Książ, Lubiechów, Poniatów",
+          "cost_pln": 1000742.89,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/35007"
+        },
+        {
+          "id": 35060,
+          "number": 20,
+          "title": "Sprawni, szybcy i bezpieczni – gimnastyczny tor dydaktyczno-rekreacyjny przy PSP2",
+          "area": "Biały Kamień, Konradów, Sobięcin",
+          "cost_pln": 454800.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/35060"
+        },
+        {
+          "id": 35091,
+          "number": 21,
+          "title": "Podgórski Zamek Zabawy – rodzinna przestrzeń rekreacji przy ul. Łokietka",
+          "area": "Podgórze, Nowy i Stary Glinik, Rusinowa, Kozice",
+          "cost_pln": 999000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/35091"
+        },
+        {
+          "id": 35096,
+          "number": 22,
+          "title": "„ŁADNA PIĘTNASTKA” - kompleksowy remont ulicy Piętnastolecia.",
+          "area": "Podzamcze, Piaskowa Góra",
+          "cost_pln": 1008917.76,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/35096"
+        }
+      ],
+      "results": [],
+      "stats": null,
+      "schedule": [
+        {
+          "name": "Zgłaszanie projektów do Budżetu Obywatelskiego",
+          "date_from": "2026-04-27",
+          "date_to": "2026-05-15"
+        },
+        {
+          "name": "Weryfikacja i opiniowanie zgłoszonych projektów",
+          "date_from": "2026-05-18",
+          "date_to": "2026-06-26"
+        },
+        {
+          "name": "Analiza projektów / Rozpatrzenie odwołań",
+          "date_from": "2026-06-29",
+          "date_to": "2026-07-31"
+        },
+        {
+          "name": "Głosowanie",
+          "date_from": "2026-09-01",
+          "date_to": "2026-09-30"
+        },
+        {
+          "name": "Oficjalne ogłoszenie wyników",
+          "date_from": null,
+          "date_to": "2026-10-15"
+        }
+      ],
+      "sources": {
+        "projects": "https://wbo.walbrzych.eu/projekty",
+        "schedule": "https://wbo.walbrzych.eu/wszystko-o-budzecie/harmonogram,32"
+      }
+    },
+    {
+      "year": 2026,
+      "site_id": 11,
+      "current": false,
+      "projects": [
+        {
+          "id": 29349,
+          "number": 1,
+          "title": "Bike Park pod Chełmcem, czyli Wałbrzyski Park Umiejętności Rowerowych przeznaczony dla całych rodzin",
+          "area": "Nowe Miasto, Stary Zdrój",
+          "cost_pln": 899365.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29349"
+        },
+        {
+          "id": 29399,
+          "number": 2,
+          "title": "Budowa stacjonarnych miejsc do doraźnego serwisowania rowerów",
+          "area": "Szczawienko, Książ, Lubiechów, Poniatów",
+          "cost_pln": 30000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29399"
+        },
+        {
+          "id": 29422,
+          "number": 3,
+          "title": "Górnik 8.0 - święto wałbrzyskiego sportu dla każdego",
+          "area": "Biały Kamień, Konradów, Sobięcin",
+          "cost_pln": 730000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29422"
+        },
+        {
+          "id": 29425,
+          "number": 4,
+          "title": "Rowerem do szkoły - budowa bezpiecznych parkingów rowerowych przy PSP nr 15, PSP nr 26 i ZSP nr 6",
+          "area": "Podzamcze, Piaskowa Góra",
+          "cost_pln": 280000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29425"
+        },
+        {
+          "id": 29443,
+          "number": 5,
+          "title": "Aktywnie i rodzinnie w Parku Rusinowa",
+          "area": "Podgórze, Nowy i Stary Glinik, Rusinowa, Kozice",
+          "cost_pln": 897340.05,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/29443"
+        },
+        {
+          "id": 29479,
+          "number": 6,
+          "title": "Rusinowa rzuca dyskiem – disc golf w parku!",
+          "area": "Podgórze, Nowy i Stary Glinik, Rusinowa, Kozice",
+          "cost_pln": 61393.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29479"
+        },
+        {
+          "id": 29485,
+          "number": 7,
+          "title": "Biało-Niebieska Strefa Basketu",
+          "area": "Podzamcze, Piaskowa Góra",
+          "cost_pln": 900000.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/29485"
+        },
+        {
+          "id": 29486,
+          "number": 8,
+          "title": "Rowerem do szkoły - budowa bezpiecznych parkingów rowerowych przy PSP nr 6 i ZSP nr 1",
+          "area": "Biały Kamień, Konradów, Sobięcin",
+          "cost_pln": 64000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29486"
+        },
+        {
+          "id": 29501,
+          "number": 9,
+          "title": "Jak korzystać z AI w praktyce?",
+          "area": "Śródmieście, Gaj",
+          "cost_pln": 91260.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29501"
+        },
+        {
+          "id": 29503,
+          "number": 10,
+          "title": "Rowerem do szkoły - budowa bezpiecznych parkingów rowerowych przy PSP nr 23, ZSP nr 4, ZSP nr 3 i I Liceum Ogólnokształcącym",
+          "area": "Nowe Miasto, Stary Zdrój",
+          "cost_pln": 192000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29503"
+        },
+        {
+          "id": 29505,
+          "number": 11,
+          "title": "Rowerem do szkoły - budowa bezpiecznych parkingów rowerowych przy Zespole Szkół nr 5",
+          "area": "Szczawienko, Książ, Lubiechów, Poniatów",
+          "cost_pln": 114000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29505"
+        },
+        {
+          "id": 29522,
+          "number": 12,
+          "title": "Emocje w Ruchu",
+          "area": "Nowe Miasto, Stary Zdrój",
+          "cost_pln": 900000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29522"
+        },
+        {
+          "id": 29547,
+          "number": 13,
+          "title": "Ceramiczna rzeźba plenerowa - \"Czas miejsca\"",
+          "area": "Biały Kamień, Konradów, Sobięcin",
+          "cost_pln": 39818.22,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29547"
+        },
+        {
+          "id": 29599,
+          "number": 14,
+          "title": "Komeda. Powrót po 70 latach",
+          "area": "Śródmieście, Gaj",
+          "cost_pln": 130000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29599"
+        },
+        {
+          "id": 29612,
+          "number": 15,
+          "title": "Rewitalizacja skweru przy ulicy Psie Pole na Nowym Mieście",
+          "area": "Nowe Miasto, Stary Zdrój",
+          "cost_pln": 795100.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/29612"
+        },
+        {
+          "id": 29637,
+          "number": 16,
+          "title": "Rowerem do szkoły - budowa bezpiecznych parkingów rowerowych przy ZSP nr 2, ZSP nr 5, ZSZS, ZSP \"Energetyk\" i II LO",
+          "area": "Śródmieście, Gaj",
+          "cost_pln": 182000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29637"
+        },
+        {
+          "id": 29639,
+          "number": 17,
+          "title": "Rowerem do szkoły - budowa bezpiecznych parkingów rowerowych przy ZSP nr 8 i ZS nr 7",
+          "area": "Podgórze, Nowy i Stary Glinik, Rusinowa, Kozice",
+          "cost_pln": 108000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29639"
+        },
+        {
+          "id": 29660,
+          "number": 18,
+          "title": "Siatkarze na plażę",
+          "area": "Podzamcze, Piaskowa Góra",
+          "cost_pln": 570000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29660"
+        },
+        {
+          "id": 29667,
+          "number": 19,
+          "title": "Naukowo-rekreacyjny plac zabaw - nauka i zabawa na świeżym powietrzu przy PSP2.",
+          "area": "Biały Kamień, Konradów, Sobięcin",
+          "cost_pln": 353520.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/29667"
+        },
+        {
+          "id": 29676,
+          "number": 20,
+          "title": "kurtyny wodne dla dzieci i dorosłych",
+          "area": "Podzamcze, Piaskowa Góra",
+          "cost_pln": 600000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29676"
+        },
+        {
+          "id": 29697,
+          "number": 21,
+          "title": "AGAPE ACADEMY STOP HEJTOWI",
+          "area": "Biały Kamień, Konradów, Sobięcin",
+          "cost_pln": 99688.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29697"
+        },
+        {
+          "id": 29701,
+          "number": 22,
+          "title": "PODZAMCZE GRA RAZEM - KOSZYKÓWKA,WSPINACZKA,SZACHY I PING PONG",
+          "area": "Podzamcze, Piaskowa Góra",
+          "cost_pln": 893920.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29701"
+        },
+        {
+          "id": 29702,
+          "number": 23,
+          "title": "Przejście dla pieszych przy Alei Podwale na wysokości ul. Palisadowej 97/97a",
+          "area": "Podzamcze, Piaskowa Góra",
+          "cost_pln": 40650.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29702"
+        },
+        {
+          "id": 29716,
+          "number": 24,
+          "title": "Wałbrzyski System Edukacyjno-Ostrzegawczy \"Pogodny Wałbrzych\"– Sieć Stacji Pogody przy Szkołach: SP nr 37 Piaskowa Góra oraz ZSP nr 6 Podzamcze",
+          "area": "Podzamcze, Piaskowa Góra",
+          "cost_pln": 70000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29716"
+        },
+        {
+          "id": 29726,
+          "number": 25,
+          "title": "Stacja Słowacki - miejsce spotkań i łącznik kultur",
+          "area": "Śródmieście, Gaj",
+          "cost_pln": 200000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29726"
+        },
+        {
+          "id": 29734,
+          "number": 26,
+          "title": "Nasze Osiedle - remont chodników",
+          "area": "Podgórze, Nowy i Stary Glinik, Rusinowa, Kozice",
+          "cost_pln": 591860.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29734"
+        },
+        {
+          "id": 29738,
+          "number": 27,
+          "title": "Wyłącz smartfon, włącz sport!",
+          "area": "Biały Kamień, Konradów, Sobięcin",
+          "cost_pln": 185600.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/29738"
+        },
+        {
+          "id": 29742,
+          "number": 28,
+          "title": "Wykonanie terenu rekreacyjnego z placem zabaw przy Wspólnocie Mieszkaniowej \"Psie Pole 20\" na Nowym Mieście",
+          "area": "Nowe Miasto, Stary Zdrój",
+          "cost_pln": 895000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29742"
+        },
+        {
+          "id": 29743,
+          "number": 29,
+          "title": "Wałbrzyski System Edukacyjno-Ostrzegawczy \"Pogodny Wałbrzych\" – Sieć Stacji Pogody przy Szkołach: SP nr 5 Szczawienko oraz Żłobek nr 8 Poniatów",
+          "area": "Szczawienko, Książ, Lubiechów, Poniatów",
+          "cost_pln": 70000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29743"
+        },
+        {
+          "id": 29744,
+          "number": 30,
+          "title": "Wałbrzyski System Edukacyjno-Ostrzegawczy \"Pogodny Wałbrzych\" – Sieć Stacji Pogody przy Szkołach: SP nr 2 Biały Kamień oraz III LO Sobięcin",
+          "area": "Biały Kamień, Konradów, Sobięcin",
+          "cost_pln": 70000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29744"
+        },
+        {
+          "id": 29745,
+          "number": 31,
+          "title": "Wałbrzyski System Edukacyjno-Ostrzegawczy \"Pogodny Wałbrzych\" – Sieć Stacji Pogody przy Szkołach: I LO Nowe Miasto oraz SP nr 30 Stary Zdrój",
+          "area": "Nowe Miasto, Stary Zdrój",
+          "cost_pln": 70000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29745"
+        },
+        {
+          "id": 29746,
+          "number": 32,
+          "title": "Wałbrzyski System Edukacyjno-Ostrzegawczy \"Pogodny Wałbrzych\" – Sieć Stacji Pogody przy Szkołach: SP nr 28 Śródmieście oraz ZSP nr 2 Gaj",
+          "area": "Śródmieście, Gaj",
+          "cost_pln": 70000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29746"
+        },
+        {
+          "id": 29747,
+          "number": 33,
+          "title": "Wałbrzyski System Edukacyjno-Ostrzegawczy \"Pogodny Wałbrzych\"– Sieć Stacji Pogody przy Szkołach: Zespół Szkół nr 7 Rusinowa oraz SP nr 5 Podgórze",
+          "area": "Podgórze, Nowy i Stary Glinik, Rusinowa, Kozice",
+          "cost_pln": 70000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/29747"
+        }
+      ],
+      "results": [
+        {
+          "id": 29485,
+          "position": 1,
+          "number": 7,
+          "votes": 1438,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 900000.0
+        },
+        {
+          "id": 29443,
+          "position": 2,
+          "number": 5,
+          "votes": 594,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 897340.05
+        },
+        {
+          "id": 29738,
+          "position": 3,
+          "number": 27,
+          "votes": 462,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 185600.0
+        },
+        {
+          "id": 29612,
+          "position": 4,
+          "number": 15,
+          "votes": 408,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 795100.0
+        },
+        {
+          "id": 29667,
+          "position": 5,
+          "number": 19,
+          "votes": 362,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 353520.0
+        },
+        {
+          "id": 29701,
+          "position": 6,
+          "number": 22,
+          "votes": 226,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 893920.0
+        },
+        {
+          "id": 29349,
+          "position": 7,
+          "number": 1,
+          "votes": 225,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 899365.0
+        },
+        {
+          "id": 29522,
+          "position": 8,
+          "number": 12,
+          "votes": 171,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 900000.0
+        },
+        {
+          "id": 29422,
+          "position": 9,
+          "number": 3,
+          "votes": 126,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 730000.0
+        },
+        {
+          "id": 29425,
+          "position": 10,
+          "number": 4,
+          "votes": 120,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 280000.0
+        },
+        {
+          "id": 29660,
+          "position": 11,
+          "number": 18,
+          "votes": 115,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 570000.0
+        },
+        {
+          "id": 29505,
+          "position": 12,
+          "number": 11,
+          "votes": 60,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 114000.0
+        },
+        {
+          "id": 29503,
+          "position": 13,
+          "number": 10,
+          "votes": 55,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 192000.0
+        },
+        {
+          "id": 29486,
+          "position": 14,
+          "number": 8,
+          "votes": 52,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 64000.0
+        },
+        {
+          "id": 29726,
+          "position": 15,
+          "number": 25,
+          "votes": 50,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 200000.0
+        },
+        {
+          "id": 29702,
+          "position": 16,
+          "number": 23,
+          "votes": 48,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 40650.0
+        },
+        {
+          "id": 29637,
+          "position": 17,
+          "number": 16,
+          "votes": 43,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 182000.0
+        },
+        {
+          "id": 29734,
+          "position": 18,
+          "number": 26,
+          "votes": 40,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 591860.0
+        },
+        {
+          "id": 29676,
+          "position": 18,
+          "number": 20,
+          "votes": 40,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 600000.0
+        },
+        {
+          "id": 29599,
+          "position": 20,
+          "number": 14,
+          "votes": 33,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 130000.0
+        },
+        {
+          "id": 29547,
+          "position": 21,
+          "number": 13,
+          "votes": 32,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 39818.22
+        },
+        {
+          "id": 29745,
+          "position": 21,
+          "number": 31,
+          "votes": 32,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 70000.0
+        },
+        {
+          "id": 29746,
+          "position": 23,
+          "number": 32,
+          "votes": 26,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 70000.0
+        },
+        {
+          "id": 29742,
+          "position": 24,
+          "number": 28,
+          "votes": 25,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 895000.0
+        },
+        {
+          "id": 29399,
+          "position": 25,
+          "number": 2,
+          "votes": 22,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 30000.0
+        },
+        {
+          "id": 29716,
+          "position": 26,
+          "number": 24,
+          "votes": 21,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 70000.0
+        },
+        {
+          "id": 29639,
+          "position": 27,
+          "number": 17,
+          "votes": 18,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 108000.0
+        },
+        {
+          "id": 29697,
+          "position": 27,
+          "number": 21,
+          "votes": 18,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 99688.0
+        },
+        {
+          "id": 29747,
+          "position": 29,
+          "number": 33,
+          "votes": 17,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 70000.0
+        },
+        {
+          "id": 29744,
+          "position": 30,
+          "number": 30,
+          "votes": 16,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 70000.0
+        },
+        {
+          "id": 29479,
+          "position": 30,
+          "number": 6,
+          "votes": 16,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 61393.0
+        },
+        {
+          "id": 29743,
+          "position": 32,
+          "number": 29,
+          "votes": 9,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 70000.0
+        },
+        {
+          "id": 29501,
+          "position": 33,
+          "number": 9,
+          "votes": 8,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 91260.0
+        }
+      ],
+      "stats": {
+        "voters": 4928,
+        "valid_votes": 4928,
+        "desktop_votes": 794,
+        "mobile_votes": 4134,
+        "women": 2995,
+        "men": 1933,
+        "first_vote": "2025-09-01T00:01",
+        "last_vote": "2025-09-30T23:32"
+      },
+      "schedule": [],
+      "sources": {
+        "projects": "https://wbo.walbrzych.eu/poprzednie-edycje/11/projekty",
+        "results": "https://wbo.walbrzych.eu/poprzednie-edycje/11/wyniki"
+      }
+    },
+    {
+      "year": 2025,
+      "site_id": 10,
+      "current": false,
+      "projects": [
+        {
+          "id": 20506,
+          "number": 1,
+          "title": "Parki dla psiaków",
+          "area": null,
+          "cost_pln": 1000000.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/20506"
+        },
+        {
+          "id": 20648,
+          "number": 2,
+          "title": "Singletrack na Niedźwiadkach - Budowa profesjonalnej ścieżki rowerowej dla całych rodzin, wokół masywu górskiego tzw. Niedźwiadków w Wałbrzychu",
+          "area": null,
+          "cost_pln": 1111700.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/20648"
+        },
+        {
+          "id": 21054,
+          "number": 3,
+          "title": "Aktywnie i rodzinnie w Parku Rusinowa",
+          "area": null,
+          "cost_pln": 1124160.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/21054"
+        },
+        {
+          "id": 21065,
+          "number": 4,
+          "title": "Bezpieczna droga- remont ulicy Odlewniczej w Wałbrzychu",
+          "area": null,
+          "cost_pln": 1100712.79,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/21065"
+        },
+        {
+          "id": 21266,
+          "number": 5,
+          "title": "Aleja spacerowo-rowerowa w dzielnicy Nowe Miasto, dla uczniów SP23, mieszkańców Wałbrzycha i turystów.",
+          "area": null,
+          "cost_pln": 1100400.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/21266"
+        },
+        {
+          "id": 21414,
+          "number": 6,
+          "title": "Centrum Edukacyjno-Rekreacyjno-Sportowe w dzielnicy Stary Zdrój",
+          "area": null,
+          "cost_pln": 1085295.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/21414"
+        },
+        {
+          "id": 21430,
+          "number": 7,
+          "title": "Budowa boisk przy 4 Liceum Ogólnokształcącym z Oddziałami Integracyjnymi i Sportowymi w Wałbrzychu",
+          "area": null,
+          "cost_pln": 1104020.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/21430"
+        },
+        {
+          "id": 21510,
+          "number": 8,
+          "title": "Doposażenie terenu sportowo-rekreacyjnego przy Zespole Szkolno-Przedszkolnym nr 5 w Wałbrzychu",
+          "area": null,
+          "cost_pln": 328000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/21510"
+        },
+        {
+          "id": 21514,
+          "number": 9,
+          "title": "Zakup sceny mobilnej dla Wałbrzycha do organizacji wydarzeń",
+          "area": null,
+          "cost_pln": 855000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/21514"
+        },
+        {
+          "id": 21525,
+          "number": 10,
+          "title": "MULTIMEDIALNE SPORTOWE SERCE WAŁBRZYCHA",
+          "area": null,
+          "cost_pln": 1113606.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/21525"
+        },
+        {
+          "id": 21550,
+          "number": 11,
+          "title": "\"Niekoronowany czeka na zmiany\". Upragniona, nowa nawierzchnia ulicy Mieszka I, pierwszego władcy Polski.",
+          "area": null,
+          "cost_pln": 1103000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/21550"
+        },
+        {
+          "id": 21551,
+          "number": 12,
+          "title": "600 lat Wałbrzycha. Muzyczny prolog",
+          "area": null,
+          "cost_pln": 725000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/21551"
+        },
+        {
+          "id": 21588,
+          "number": 13,
+          "title": "PIERWSZE BOISKO DLA SZCZAWIENKA",
+          "area": null,
+          "cost_pln": 816302.7,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/21588"
+        },
+        {
+          "id": 21589,
+          "number": 14,
+          "title": "Zakup oraz regeneracja strojów ludowych dla Zespołu Pieśni i Tańca \"Wałbrzych\"",
+          "area": null,
+          "cost_pln": 250000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/21589"
+        }
+      ],
+      "results": [
+        {
+          "id": 20648,
+          "position": 1,
+          "number": 2,
+          "votes": 1250,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 1111700.0
+        },
+        {
+          "id": 20506,
+          "position": 2,
+          "number": 1,
+          "votes": 1039,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 1000000.0
+        },
+        {
+          "id": 21525,
+          "position": 3,
+          "number": 10,
+          "votes": 814,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 1113606.0
+        },
+        {
+          "id": 21588,
+          "position": 4,
+          "number": 13,
+          "votes": 749,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 816302.7
+        },
+        {
+          "id": 21054,
+          "position": 5,
+          "number": 3,
+          "votes": 612,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 1124160.0
+        },
+        {
+          "id": 21551,
+          "position": 6,
+          "number": 12,
+          "votes": 450,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 725000.0
+        },
+        {
+          "id": 21266,
+          "position": 7,
+          "number": 5,
+          "votes": 377,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 1100400.0
+        },
+        {
+          "id": 21550,
+          "position": 8,
+          "number": 11,
+          "votes": 373,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 1103000.0
+        },
+        {
+          "id": 21414,
+          "position": 9,
+          "number": 6,
+          "votes": 341,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 1085295.0
+        },
+        {
+          "id": 21430,
+          "position": 10,
+          "number": 7,
+          "votes": 310,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 1104020.0
+        },
+        {
+          "id": 21589,
+          "position": 11,
+          "number": 14,
+          "votes": 262,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 250000.0
+        },
+        {
+          "id": 21510,
+          "position": 12,
+          "number": 8,
+          "votes": 126,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 328000.0
+        },
+        {
+          "id": 21065,
+          "position": 13,
+          "number": 4,
+          "votes": 112,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 1100712.79
+        },
+        {
+          "id": 21514,
+          "position": 14,
+          "number": 9,
+          "votes": 83,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 855000.0
+        }
+      ],
+      "stats": {
+        "voters": 6898,
+        "valid_votes": 6898,
+        "desktop_votes": 1598,
+        "mobile_votes": 5300,
+        "women": 3954,
+        "men": 2944,
+        "first_vote": "2024-09-01T00:04",
+        "last_vote": "2024-09-30T23:48"
+      },
+      "schedule": [],
+      "sources": {
+        "projects": "https://wbo.walbrzych.eu/poprzednie-edycje/10/projekty",
+        "results": "https://wbo.walbrzych.eu/poprzednie-edycje/10/wyniki"
+      }
+    },
+    {
+      "year": 2023,
+      "site_id": 9,
+      "current": false,
+      "projects": [
+        {
+          "id": 14448,
+          "number": 1,
+          "title": "Modernizacja placu zabaw i budowa ogrodzonego wybiegu dla psów w Parku im. Tadeusza Kościuszki na Sobięcinie",
+          "area": null,
+          "cost_pln": 82000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/14448"
+        },
+        {
+          "id": 14567,
+          "number": 2,
+          "title": "Budowa Centralnej Nekropolii Wałbrzyskiej przy ul. Żeromskiego.",
+          "area": null,
+          "cost_pln": 1037700.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/14567"
+        },
+        {
+          "id": 14917,
+          "number": 3,
+          "title": "WAFLOWO - ŚWIAT SZCZĘŚLIWYCH WAŁBRZYSKICH PSIAKÓW",
+          "area": null,
+          "cost_pln": 116105.85,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/14917"
+        },
+        {
+          "id": 14924,
+          "number": 4,
+          "title": "REMONT NAWIERZCHNI DROGOWEJ NA DZIAłCE NR 111 oraz 110/2 OBRĘB 18 BIAŁY KAMIEŃ UL. REJA 5",
+          "area": null,
+          "cost_pln": 183050.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/14924"
+        },
+        {
+          "id": 14941,
+          "number": 5,
+          "title": "PUMPTRACK - Rowerowy plac zabaw dla małych i dużych, młodzieży i dorosłych",
+          "area": null,
+          "cost_pln": 865500.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/14941"
+        },
+        {
+          "id": 14977,
+          "number": 6,
+          "title": "Muzyczny Skwer",
+          "area": null,
+          "cost_pln": 1049990.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/14977"
+        },
+        {
+          "id": 15122,
+          "number": 7,
+          "title": "Ławki i śmietniki - ul. Lotników oraz Żwirki i Wigury",
+          "area": null,
+          "cost_pln": 12800.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/15122"
+        },
+        {
+          "id": 15127,
+          "number": 8,
+          "title": "Wałbrzych- \"Dzielnice z Sercem\"",
+          "area": null,
+          "cost_pln": 944800.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/15127"
+        },
+        {
+          "id": 15131,
+          "number": 9,
+          "title": "NOWE MIASTO PO NOWEMU",
+          "area": null,
+          "cost_pln": 920000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/15131"
+        },
+        {
+          "id": 15142,
+          "number": 10,
+          "title": "PRZYSTANEK DLA MAŁEGO I DUŻEGO",
+          "area": null,
+          "cost_pln": 192550.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/15142"
+        },
+        {
+          "id": 15153,
+          "number": 11,
+          "title": "SKATEPARK DLA MŁODZIEŻY",
+          "area": null,
+          "cost_pln": 751000.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/15153"
+        },
+        {
+          "id": 15197,
+          "number": 12,
+          "title": "Psi wybieg - Dog Park Sobieskiego / Olimpijska",
+          "area": null,
+          "cost_pln": 236229.09,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/15197"
+        }
+      ],
+      "results": [
+        {
+          "id": 14977,
+          "position": 1,
+          "number": 6,
+          "votes": 1196,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 1049990.0
+        },
+        {
+          "id": 14941,
+          "position": 2,
+          "number": 5,
+          "votes": 1154,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 865500.0
+        },
+        {
+          "id": 15127,
+          "position": 3,
+          "number": 8,
+          "votes": 541,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 944800.0
+        },
+        {
+          "id": 15153,
+          "position": 4,
+          "number": 11,
+          "votes": 533,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 751000.0
+        },
+        {
+          "id": 14567,
+          "position": 5,
+          "number": 2,
+          "votes": 370,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 1037700.0
+        },
+        {
+          "id": 15197,
+          "position": 6,
+          "number": 12,
+          "votes": 252,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 236229.09
+        },
+        {
+          "id": 14448,
+          "position": 7,
+          "number": 1,
+          "votes": 212,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 82000.0
+        },
+        {
+          "id": 15131,
+          "position": 8,
+          "number": 9,
+          "votes": 209,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 920000.0
+        },
+        {
+          "id": 14917,
+          "position": 9,
+          "number": 3,
+          "votes": 170,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 116105.85
+        },
+        {
+          "id": 14924,
+          "position": 10,
+          "number": 4,
+          "votes": 108,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 183050.0
+        },
+        {
+          "id": 15142,
+          "position": 11,
+          "number": 10,
+          "votes": 75,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 192550.0
+        },
+        {
+          "id": 15122,
+          "position": 12,
+          "number": 7,
+          "votes": 73,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 12800.0
+        }
+      ],
+      "stats": {
+        "voters": 4893,
+        "valid_votes": 4893,
+        "desktop_votes": 1240,
+        "mobile_votes": 3653,
+        "women": 2955,
+        "men": 1938,
+        "first_vote": "2022-09-01T00:13",
+        "last_vote": "2022-09-30T23:59"
+      },
+      "schedule": [],
+      "sources": {
+        "projects": "https://wbo.walbrzych.eu/poprzednie-edycje/9/projekty",
+        "results": "https://wbo.walbrzych.eu/poprzednie-edycje/9/wyniki"
+      }
+    },
+    {
+      "year": 2022,
+      "site_id": 8,
+      "current": false,
+      "projects": [
+        {
+          "id": 11223,
+          "number": 1,
+          "title": "\"Wspólne podwórko\"-rewitalizacja rekreacyjnego placu zabaw i budowa boiska wielofunkcyjnego na terenie PSP 6 dla mieszkańców Wałbrzycha.",
+          "area": null,
+          "cost_pln": 615050.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/11223"
+        },
+        {
+          "id": 11361,
+          "number": 2,
+          "title": "Aktywnie i rodzinnie w Parku Rusinowa",
+          "area": null,
+          "cost_pln": 745000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/11361"
+        },
+        {
+          "id": 11482,
+          "number": 3,
+          "title": "PROJEKT-osiedlowe podwórko, bezpieczne dziecko",
+          "area": null,
+          "cost_pln": 201520.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/11482"
+        },
+        {
+          "id": 11521,
+          "number": 4,
+          "title": "Skatepark dla dzieci",
+          "area": null,
+          "cost_pln": 726000.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/11521"
+        },
+        {
+          "id": 11532,
+          "number": 5,
+          "title": "Park dla Podzamcza",
+          "area": null,
+          "cost_pln": 743000.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/11532"
+        },
+        {
+          "id": 11534,
+          "number": 6,
+          "title": "Skatepark dla młodzieży",
+          "area": null,
+          "cost_pln": 726000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/11534"
+        },
+        {
+          "id": 11616,
+          "number": 7,
+          "title": "Pojazdy specjalistyczne dla GOPR - “Bezpiecznie w górach”.",
+          "area": null,
+          "cost_pln": 731682.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/11616"
+        },
+        {
+          "id": 11716,
+          "number": 8,
+          "title": "Chodniki na naszym osiedlu",
+          "area": null,
+          "cost_pln": 90000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/11716"
+        },
+        {
+          "id": 11750,
+          "number": 9,
+          "title": "OSP GPR Wałbrzych dla mieszkańców",
+          "area": null,
+          "cost_pln": 744501.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/11750"
+        },
+        {
+          "id": 11775,
+          "number": 10,
+          "title": "SCENA DLA WAŁBRZYCHA",
+          "area": null,
+          "cost_pln": 709150.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/11775"
+        },
+        {
+          "id": 11851,
+          "number": 11,
+          "title": "II Etap - doposażenie projektu \"Ścianki wspinaczkowe bulderingowe dla dzieci i dorosłych orac kompleks rekr - sportowy \" w PLAC ZABAW DLA NASTOLATKÓW",
+          "area": null,
+          "cost_pln": 745000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/11851"
+        }
+      ],
+      "results": [
+        {
+          "id": 11223,
+          "position": 1,
+          "number": 1,
+          "votes": 926,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 615050.0
+        },
+        {
+          "id": 11616,
+          "position": 2,
+          "number": 7,
+          "votes": 683,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 731682.0
+        },
+        {
+          "id": 11521,
+          "position": 3,
+          "number": 4,
+          "votes": 587,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 726000.0
+        },
+        {
+          "id": 11532,
+          "position": 4,
+          "number": 5,
+          "votes": 573,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 743000.0
+        },
+        {
+          "id": 11750,
+          "position": 4,
+          "number": 9,
+          "votes": 573,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 744501.0
+        },
+        {
+          "id": 11534,
+          "position": 6,
+          "number": 6,
+          "votes": 529,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 726000.0
+        },
+        {
+          "id": 11851,
+          "position": 7,
+          "number": 11,
+          "votes": 462,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 745000.0
+        },
+        {
+          "id": 11361,
+          "position": 8,
+          "number": 2,
+          "votes": 451,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 745000.0
+        },
+        {
+          "id": 11775,
+          "position": 9,
+          "number": 10,
+          "votes": 164,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 709150.0
+        },
+        {
+          "id": 11482,
+          "position": 10,
+          "number": 3,
+          "votes": 129,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 201520.0
+        },
+        {
+          "id": 11716,
+          "position": 11,
+          "number": 8,
+          "votes": 39,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 90000.0
+        }
+      ],
+      "stats": {
+        "voters": 5116,
+        "valid_votes": 5116,
+        "desktop_votes": 1634,
+        "mobile_votes": 3482,
+        "women": 2982,
+        "men": 2134,
+        "first_vote": "2021-09-01T04:53",
+        "last_vote": "2021-09-30T23:49"
+      },
+      "schedule": [],
+      "sources": {
+        "projects": "https://wbo.walbrzych.eu/poprzednie-edycje/8/projekty",
+        "results": "https://wbo.walbrzych.eu/poprzednie-edycje/8/wyniki"
+      }
+    },
+    {
+      "year": 2021,
+      "site_id": 7,
+      "current": false,
+      "projects": [
+        {
+          "id": 8383,
+          "number": 1,
+          "title": "Samochody dla Strażaków -\" Ludziom na Ratunek\"",
+          "area": null,
+          "cost_pln": 651910.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/8383"
+        },
+        {
+          "id": 8442,
+          "number": 2,
+          "title": "Koszary wojskowe,całe sportowe",
+          "area": null,
+          "cost_pln": 651374.75,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/8442"
+        },
+        {
+          "id": 8451,
+          "number": 3,
+          "title": "Rewitalizacja podwójnego boiska do siatkówki plażowej",
+          "area": null,
+          "cost_pln": 450000.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/8451"
+        },
+        {
+          "id": 8453,
+          "number": 4,
+          "title": "\"Nasze Osiedle\" remont chodników",
+          "area": null,
+          "cost_pln": 586404.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/8453"
+        }
+      ],
+      "results": [
+        {
+          "id": 8383,
+          "position": 1,
+          "number": 1,
+          "votes": 544,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 651910.0
+        },
+        {
+          "id": 8453,
+          "position": 2,
+          "number": 4,
+          "votes": 286,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 586404.0
+        },
+        {
+          "id": 8451,
+          "position": 3,
+          "number": 3,
+          "votes": 211,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 450000.0
+        },
+        {
+          "id": 8442,
+          "position": 4,
+          "number": 2,
+          "votes": 200,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 651374.75
+        }
+      ],
+      "stats": {
+        "voters": null,
+        "valid_votes": null,
+        "desktop_votes": null,
+        "mobile_votes": null,
+        "women": null,
+        "men": null,
+        "first_vote": "2020-09-01T00:02",
+        "last_vote": "2020-09-30T21:20"
+      },
+      "schedule": [],
+      "sources": {
+        "projects": "https://wbo.walbrzych.eu/poprzednie-edycje/7/projekty",
+        "results": "https://wbo.walbrzych.eu/poprzednie-edycje/7/wyniki"
+      }
+    },
+    {
+      "year": 2020,
+      "site_id": 6,
+      "current": false,
+      "projects": [
+        {
+          "id": 5632,
+          "number": 1,
+          "title": "Tężnia Solankowa w Wałbrzychu",
+          "area": null,
+          "cost_pln": 502600.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/5632"
+        },
+        {
+          "id": 5630,
+          "number": 2,
+          "title": "Przyjazne podwórko",
+          "area": null,
+          "cost_pln": 150000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/5630"
+        },
+        {
+          "id": 5633,
+          "number": 3,
+          "title": "Rewitalizacja placu zabaw na terenie dzielnicy Lubiechów - II etap",
+          "area": null,
+          "cost_pln": 310000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/5633"
+        },
+        {
+          "id": 5634,
+          "number": 5,
+          "title": "Na ratunek ! Mobilne Centrum Poszkiwań OSP GPR \"Wałbrzych\"",
+          "area": null,
+          "cost_pln": 549198.56,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/5634"
+        },
+        {
+          "id": 5642,
+          "number": 6,
+          "title": "Skwer pod wiaduktem",
+          "area": null,
+          "cost_pln": 553000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/5642"
+        },
+        {
+          "id": 5652,
+          "number": 8,
+          "title": "Rewitalizacja podwójnego boiska do siatkówki plażowej",
+          "area": null,
+          "cost_pln": 400000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/5652"
+        },
+        {
+          "id": 5657,
+          "number": 9,
+          "title": "Ściany wspinaczkowe bulderingowe dla dzieci i dorosłych oraz kompleks rekreacyjno-sportowy",
+          "area": null,
+          "cost_pln": 620000.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/5657"
+        },
+        {
+          "id": 5660,
+          "number": 11,
+          "title": "Plac zabaw Psie Pole - Wyposażenie i ogrodzenie przed zwierzętami",
+          "area": null,
+          "cost_pln": 90000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/5660"
+        },
+        {
+          "id": 5673,
+          "number": 12,
+          "title": "Zagospodarowanie terenu podwórka w kwartale ulic Namysłowskiego, Ogińskiego, Sygietyńskiego i Piłsudskiego",
+          "area": null,
+          "cost_pln": 620000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/5673"
+        },
+        {
+          "id": 5678,
+          "number": 14,
+          "title": "Plac zabaw \"Starówka\"",
+          "area": null,
+          "cost_pln": 337819.86,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/5678"
+        },
+        {
+          "id": 5671,
+          "number": 15,
+          "title": "FlowPark, Siłownia, Biegi, Rolki i Rowery - odnowienie stadionu dla wałbrzyszan.",
+          "area": null,
+          "cost_pln": 620000.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/5671"
+        },
+        {
+          "id": 5697,
+          "number": 19,
+          "title": "Zewnętrzne siłownie integracyjne Podzamcze - Nowe Miasto",
+          "area": null,
+          "cost_pln": 523000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/5697"
+        },
+        {
+          "id": 5698,
+          "number": 21,
+          "title": "\"Spotkajmy się po sąsiedzku\" - Rewitalizacja terenu mieszczącego się pomiędzy ul. I. Paderewskiego oraz ul. F. Chopina na Nowym Mieście",
+          "area": null,
+          "cost_pln": 616000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/5698"
+        },
+        {
+          "id": 5703,
+          "number": 22,
+          "title": "Koszary wojskowe, całe sportowe",
+          "area": null,
+          "cost_pln": 620000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/5703"
+        },
+        {
+          "id": 5702,
+          "number": 23,
+          "title": "Zakup sceny mobilnej dla potrzeb organizacji wydarzeń kulturalnych w Wałbrzychu.",
+          "area": null,
+          "cost_pln": 589750.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/5702"
+        },
+        {
+          "id": 5716,
+          "number": 24,
+          "title": "Bio10 Pasieki Zielony Wałbrzych",
+          "area": null,
+          "cost_pln": 611200.0,
+          "status": "Wybrany do realizacji",
+          "url": "https://wbo.walbrzych.eu/projekt/5716"
+        },
+        {
+          "id": 5752,
+          "number": 25,
+          "title": "\"Zielony zakątek Nowego Miasta\"",
+          "area": null,
+          "cost_pln": 57000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/5752"
+        },
+        {
+          "id": 5725,
+          "number": 26,
+          "title": "Mała, plenerowa scena koncertowa w Parku Sobieskiego w Wałbrzychu",
+          "area": null,
+          "cost_pln": 600000.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/5725"
+        },
+        {
+          "id": 5751,
+          "number": 27,
+          "title": "Boisko i Wesoły Plac Zabaw - Przywodna",
+          "area": null,
+          "cost_pln": 520922.0,
+          "status": "Wybrany do głosowania",
+          "url": "https://wbo.walbrzych.eu/projekt/5751"
+        }
+      ],
+      "results": [
+        {
+          "id": 5671,
+          "position": 1,
+          "number": 15,
+          "votes": 1848,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 620000.0
+        },
+        {
+          "id": 5634,
+          "position": 2,
+          "number": 5,
+          "votes": 892,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 549198.56
+        },
+        {
+          "id": 5632,
+          "position": 3,
+          "number": 1,
+          "votes": 784,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 502600.0
+        },
+        {
+          "id": 5716,
+          "position": 4,
+          "number": 24,
+          "votes": 550,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 611200.0
+        },
+        {
+          "id": 5657,
+          "position": 5,
+          "number": 9,
+          "votes": 543,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 620000.0
+        },
+        {
+          "id": 5652,
+          "position": 6,
+          "number": 8,
+          "votes": 525,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 400000.0
+        },
+        {
+          "id": 5703,
+          "position": 7,
+          "number": 22,
+          "votes": 382,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 620000.0
+        },
+        {
+          "id": 5642,
+          "position": 8,
+          "number": 6,
+          "votes": 176,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 553000.0
+        },
+        {
+          "id": 5697,
+          "position": 9,
+          "number": 19,
+          "votes": 161,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 523000.0
+        },
+        {
+          "id": 5751,
+          "position": 10,
+          "number": 27,
+          "votes": 133,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 520922.0
+        },
+        {
+          "id": 5633,
+          "position": 11,
+          "number": 3,
+          "votes": 132,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 310000.0
+        },
+        {
+          "id": 5702,
+          "position": 12,
+          "number": 23,
+          "votes": 125,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 589750.0
+        },
+        {
+          "id": 5630,
+          "position": 13,
+          "number": 2,
+          "votes": 107,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 150000.0
+        },
+        {
+          "id": 5673,
+          "position": 14,
+          "number": 12,
+          "votes": 88,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 620000.0
+        },
+        {
+          "id": 5725,
+          "position": 15,
+          "number": 26,
+          "votes": 63,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 600000.0
+        },
+        {
+          "id": 5678,
+          "position": 16,
+          "number": 14,
+          "votes": 62,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 337819.86
+        },
+        {
+          "id": 5660,
+          "position": 17,
+          "number": 11,
+          "votes": 57,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 90000.0
+        },
+        {
+          "id": 5698,
+          "position": 18,
+          "number": 21,
+          "votes": 41,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 616000.0
+        },
+        {
+          "id": 5752,
+          "position": 19,
+          "number": 25,
+          "votes": 19,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 57000.0
+        }
+      ],
+      "stats": {
+        "voters": 6688,
+        "valid_votes": 6688,
+        "desktop_votes": 2711,
+        "mobile_votes": 3977,
+        "women": 3819,
+        "men": 2869,
+        "first_vote": "2019-09-01T00:03",
+        "last_vote": "2019-09-30T23:59"
+      },
+      "schedule": [],
+      "sources": {
+        "projects": "https://wbo.walbrzych.eu/poprzednie-edycje/6/projekty",
+        "results": "https://wbo.walbrzych.eu/poprzednie-edycje/6/wyniki"
+      }
+    }
+  ]
+}
