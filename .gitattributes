@@ -1,0 +1,4 @@
+# Normalise line endings: LF in the repository, native on checkout is NOT wanted (Python/HTML/JSON stay LF).
+* text=auto eol=lf
+*.png binary
+*.jpg binary
