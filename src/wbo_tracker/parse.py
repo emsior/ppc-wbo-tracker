@@ -7,6 +7,7 @@ so everything here is unit-testable with small synthetic fixtures.
 from __future__ import annotations
 
 import re
+from datetime import date
 
 from bs4 import BeautifulSoup, Tag
 
@@ -56,10 +57,10 @@ def parse_cost(text: str | None) -> float | None:
     if not text:
         return None
     cleaned = text.replace(_NBSP, " ")
-    match = re.search(r"(\d[\d ]*)(?:,(\d{1,2}))?", cleaned)
+    match = re.search(r"(\d{1,3}(?:[ .]\d{3})*|\d+)(?:,(\d{1,2}))?", cleaned)
     if not match:
         return None
-    whole = match.group(1).replace(" ", "")
+    whole = re.sub(r"[ .]", "", match.group(1))
     frac = match.group(2) or "0"
     return float(f"{whole}.{frac}")
 
@@ -69,7 +70,7 @@ def parse_pl_datetime(text: str | None) -> str | None:
     if not text:
         return None
     match = re.search(
-        r"(\d{1,2})\s+([a-ząćęłńóśźż]+)\s+(\d{4})(?:\s+(\d{1,2}):(\d{2}))?", text.lower()
+        r"(\d{1,2})\s+([a-ząćęłńóśźż]+)\s+(\d{4})(?:\s*,?\s*(\d{1,2}):(\d{2}))?", text.lower()
     )
     if not match:
         return None
@@ -90,7 +91,10 @@ def parse_pl_date(text: str | None) -> str | None:
     match = re.search(r"(\d{1,2})\.(\d{1,2})\.(\d{4})", text)
     if not match:
         return None
-    return f"{int(match.group(3)):04d}-{int(match.group(2)):02d}-{int(match.group(1)):02d}"
+    try:
+        return date(int(match.group(3)), int(match.group(2)), int(match.group(1))).isoformat()
+    except ValueError:
+        return None
 
 
 def project_id_from_url(url: str | None) -> int | None:
@@ -130,7 +134,7 @@ def parse_editions(html: str) -> list[tuple[int, int]]:
     # The live page never closes its <li class="non-click"> tags, so html.parser nests each
     # edition inside the previous one. Walk labels in document order instead of the tree.
     editions: list[tuple[int, int]] = []
-    link_re = re.compile(r"/poprzednie-edycje/(\d+)/")
+    link_re = re.compile(r"/poprzednie-edycje/(\d+)(?:/|$)")
     for label in _soup(html).select("span.alike"):
         year_match = re.search(r"(20\d{2})", _text(label))
         link = label.find_next("a", href=link_re)
@@ -185,7 +189,7 @@ def parse_results(html: str) -> list[Result]:
             Result(
                 id=pid,
                 position=parse_int(_text(row.select_one(".vote-position"))),
-                number=parse_int(_text(row.select_one(".project_nr"))),
+                number=parse_int(_text(row.select_one(".project_nr, .project-nr"))),
                 votes=parse_int(_text(row.select_one(".votes"))),
                 status=status.capitalize(),
                 cost_pln=parse_cost(_text(row.select_one(".price"))),
@@ -198,6 +202,12 @@ def _pair_numbers(block_text: str, label: str) -> int | None:
     """'Komputery 794 16,11% Urządzenia mobilne 4 134 83,89%' + 'Komputery' -> 794."""
     match = re.search(re.escape(label) + r"\s*([\d ]+?)\s*\d+(?:,\d+)?%", block_text)
     return parse_int(match.group(1)) if match else None
+
+
+def _first_number(text: str) -> int | None:
+    """First number group in free text: '1 234 (100%)' -> 1234, never 1234100."""
+    match = re.search(r"\d[\d ]*", text.replace(_NBSP, " "))
+    return parse_int(match.group(0)) if match else None
 
 
 def _counters(block: Tag) -> list[int]:
@@ -223,13 +233,9 @@ def parse_stats(html: str) -> Stats | None:
         body_wo_heading = _norm(body.replace(_text(block.select_one("h3")), "", 1))
         counters = _counters(block)
         if "osób głosujących" in heading:
-            stats.voters = (
-                counters[0] if counters else parse_int(re.sub(r"[^\d ]", " ", body_wo_heading))
-            )
+            stats.voters = counters[0] if counters else _first_number(body_wo_heading)
         elif "oddanych głosów" in heading:
-            stats.valid_votes = (
-                counters[0] if counters else parse_int(re.sub(r"[^\d ]", " ", body_wo_heading))
-            )
+            stats.valid_votes = counters[0] if counters else _first_number(body_wo_heading)
         elif "komputery" in heading:
             stats.desktop_votes = counters[0] if counters else _pair_numbers(body, "Komputery")
             mobile_text = _pair_numbers(body, "Urządzenia mobilne")
@@ -253,8 +259,9 @@ def parse_schedule(html: str) -> list[ScheduleStep]:
     lines = [
         _norm(line) for line in _soup(html).get_text("\n", strip=True).splitlines() if line.strip()
     ]
-    step_re = re.compile(r"^(\d{1,2})\.\s+(\S.*)$")
-    dates_re = re.compile(r"(?:od\s*(\d{2}\.\d{2}\.\d{4})\s*r?\.?\s*)?\bdo\s*(\d{2}\.\d{2}\.\d{4})")
+    step_re = re.compile(r"^(\d{1,2})\.\s*(\S.*)$")
+    date_pat = r"\d{1,2}\.\d{1,2}\.\d{4}"
+    dates_re = re.compile(rf"(?:od\s*({date_pat})\s*r?\.?\s*)?\bdo\s*({date_pat})")
     groups: list[list[str]] = []
     for line in lines:
         step = step_re.match(line)

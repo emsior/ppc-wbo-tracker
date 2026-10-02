@@ -4,6 +4,13 @@ All notable changes to this project are documented here. Format: [Keep a Changel
 
 ## [Unreleased]
 
+### Fixed
+- Parser hardening after an external code review (8 edge cases): dot thousands separators in
+  costs, comma before time in Polish timestamps, calendar validation of `DD.MM.YYYY` dates,
+  archive links without trailing slash, `project-nr`/`project_nr` class variants, statistics
+  fallback no longer concatenates all numbers, schedule steps without a space after the number
+  and with 1-digit day/month.
+
 ## [0.1.0] — 2026-10-02
 
 ### Added
