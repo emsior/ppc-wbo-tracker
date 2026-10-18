@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T07:55:48+00:00",
+  "generated_at": "2026-10-18T18:30:55+00:00",
   "source_name": "Wałbrzyski Budżet Obywatelski — oficjalna platforma Urzędu Miejskiego w Wałbrzychu",
   "source_url": "https://wbo.walbrzych.eu",
   "platform": "PORTO ALEGRE (MediaPark)",
@@ -208,8 +208,194 @@
           "url": "https://wbo.walbrzych.eu/projekt/35096"
         }
       ],
-      "results": [],
-      "stats": null,
+      "results": [
+        {
+          "id": 34911,
+          "position": 1,
+          "number": 15,
+          "votes": 1104,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 558400.0
+        },
+        {
+          "id": 34971,
+          "position": 2,
+          "number": 18,
+          "votes": 1014,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 992255.26
+        },
+        {
+          "id": 34641,
+          "position": 3,
+          "number": 4,
+          "votes": 786,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 230000.0
+        },
+        {
+          "id": 34875,
+          "position": 4,
+          "number": 12,
+          "votes": 692,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 990000.0
+        },
+        {
+          "id": 34880,
+          "position": 5,
+          "number": 13,
+          "votes": 636,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 991605.44
+        },
+        {
+          "id": 34572,
+          "position": 6,
+          "number": 1,
+          "votes": 504,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 1009000.0
+        },
+        {
+          "id": 34774,
+          "position": 7,
+          "number": 9,
+          "votes": 459,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 950400.0
+        },
+        {
+          "id": 34942,
+          "position": 8,
+          "number": 16,
+          "votes": 439,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 1009000.0
+        },
+        {
+          "id": 34838,
+          "position": 9,
+          "number": 10,
+          "votes": 435,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 451700.0
+        },
+        {
+          "id": 35007,
+          "position": 10,
+          "number": 19,
+          "votes": 339,
+          "status": "Wybrany do realizacji",
+          "cost_pln": 1000742.89
+        },
+        {
+          "id": 34629,
+          "position": 11,
+          "number": 3,
+          "votes": 273,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 953440.0
+        },
+        {
+          "id": 34735,
+          "position": 12,
+          "number": 6,
+          "votes": 270,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 816000.0
+        },
+        {
+          "id": 35096,
+          "position": 13,
+          "number": 22,
+          "votes": 237,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 1008917.76
+        },
+        {
+          "id": 34771,
+          "position": 14,
+          "number": 8,
+          "votes": 176,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 305650.0
+        },
+        {
+          "id": 34621,
+          "position": 15,
+          "number": 2,
+          "votes": 172,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 774500.0
+        },
+        {
+          "id": 34686,
+          "position": 16,
+          "number": 5,
+          "votes": 148,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 207800.0
+        },
+        {
+          "id": 34846,
+          "position": 17,
+          "number": 11,
+          "votes": 139,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 952030.0
+        },
+        {
+          "id": 34895,
+          "position": 18,
+          "number": 14,
+          "votes": 132,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 477110.0
+        },
+        {
+          "id": 35091,
+          "position": 19,
+          "number": 21,
+          "votes": 118,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 999000.0
+        },
+        {
+          "id": 35060,
+          "position": 20,
+          "number": 20,
+          "votes": 105,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 454800.0
+        },
+        {
+          "id": 34767,
+          "position": 21,
+          "number": 7,
+          "votes": 26,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 961000.0
+        },
+        {
+          "id": 34962,
+          "position": 22,
+          "number": 17,
+          "votes": 18,
+          "status": "Niezakwalifikowany",
+          "cost_pln": 992255.26
+        }
+      ],
+      "stats": {
+        "voters": 8222,
+        "valid_votes": 8222,
+        "desktop_votes": 1649,
+        "mobile_votes": 6573,
+        "women": 4935,
+        "men": 3287,
+        "first_vote": "2026-09-01T00:05",
+        "last_vote": "2026-09-30T23:54"
+      },
       "schedule": [
         {
           "name": "Zgłaszanie projektów do Budżetu Obywatelskiego",
@@ -239,6 +425,7 @@
       ],
       "sources": {
         "projects": "https://wbo.walbrzych.eu/projekty",
+        "results": "https://wbo.walbrzych.eu/wyniki",
         "schedule": "https://wbo.walbrzych.eu/wszystko-o-budzecie/harmonogram,32"
       }
     },
