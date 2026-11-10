@@ -1,6 +1,6 @@
 # CLAUDE.md — ppc-wbo-tracker
 
-Zasady globalne (role AI, rama 02.10, OPSEC, git) są w `~/.claude/CLAUDE.md` i `workspace\STACK.md` — nie powielać, nie nadpisywać.
+Instrukcje dla agentów AI pracujących w tym repozytorium. Zasady wkładu dla ludzi: `CONTRIBUTING.md`.
 
 ## Czym jest
 Statyczny tracker Wałbrzyskiego Budżetu Obywatelskiego: projekty na kartach do głosowania, koszty, oficjalne wyniki, statystyki frekwencji,
@@ -21,9 +21,9 @@ wbo-tracker all
 ```
 
 ## Stan i gałęzie
-`main` = szkielet (ef65633). Cała praca z 02.10 jest na `claude/wbo-tracker-v0` (7 edycji, 115 projektów, 27/27 zwycięzców sprawdzonych
-jednolitą procedurą). Repo jest **niepubliczne** — publikacja (gh repo create, push, Pages z `/docs`) tylko po słowie właściciela.
-Review Codexa zamówiony w `workspace\.handoff\DO_CODEX.md` (blok 8); odpowiedź przyjdzie do `.handoff\DO_CLAUDE.md`.
+`main` = aktualny stan: 7 edycji (2020–2027, bez 2024), 115 projektów; wyniki edycji 2027 dodane 18.10.2026.
+27 z 32 zwycięzców sprawdzonych jednolitą procedurą (02.10.2026); pięciu zwycięzców edycji 2027 czeka na sprawdzenie.
+Strona to GitHub Pages z `/docs` na `main` — każdy push na `main` zmienia stronę publiczną, więc push tylko po słowie właściciela.
 
 ## Reguły tego repo
 - Dane tylko z oficjalnej platformy i publicznych, datowanych źródeł (BIP, um.walbrzych.pl, media lokalne). Opisy i zdjęcia projektów są chronione regulaminem platformy — nie kopiować.
@@ -34,6 +34,5 @@ Review Codexa zamówiony w `workspace\.handoff\DO_CODEX.md` (blok 8); odpowiedź
 
 ## Następna sesja
 1. `git status` (tree czysty), potem pytest / ruff / mypy — wszystko zielone, zanim cokolwiek ruszysz.
-2. Jeśli w `workspace\.handoff\DO_CLAUDE.md` jest review Codexa o trackerze: wdrożyć uwagi z testami, wpis w `CHANGELOG.md` [Unreleased], commit po ścieżkach.
-3. Po ogłoszeniu wyników edycji 2027 (miasto: do 15.10.2026): `wbo-tracker all`, sprawdzić w `data/wbo.json`, że edycja 2027 ma `results` i `stats`, obejrzeć `docs/index.html`, commit „data: WBO 2027 results”.
-4. Nic więcej. Publikacja i nazwa docelowa repo = decyzja właściciela.
+2. Jeśli są uwagi z review: wdrożyć z testami, wpis w `CHANGELOG.md` [Unreleased], commit po ścieżkach.
+3. Nic więcej bez słowa właściciela (w tym push na `main`).
